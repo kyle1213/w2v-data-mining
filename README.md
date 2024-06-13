@@ -16,3 +16,11 @@
 - 워드 클라우드의 단어에 대한 클러스터
 - key sentencces
 
+학습된 모델로 추출된 key sentences with score  
+![](https://github.com/kyle1213/w2v-data-mining/blob/master/imgs/key_sentences.png)
+
+key sentences로 생성된 wordcloud  
+![](https://github.com/kyle1213/w2v-data-mining/blob/master/imgs/word_cloud.png)
+
+wordcloud의 단어와 임베딩 모델을 사용한 클러스터 결과  
+![](https://github.com/kyle1213/w2v-data-mining/blob/master/imgs/cluster.png)
